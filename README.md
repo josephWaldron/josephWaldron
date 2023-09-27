@@ -2,7 +2,7 @@
 
 **`Software Engineer`**
 
-Welcome to my GitHub profile! My name is Joseph Waldron, and I am a Full Stack Developer and Data Scientist currently finishing up my B.S at Kean University. With expertise in both development and data analysis, I am passionate about creating impactful solutions that solve complex problems. Through my projects, I aim to share my skills, knowledge, and ideas with the community. Thank you for visiting my profile, and please feel free to explore my repositories, and my [Portfolio][website].
+Welcome to my GitHub profile! My name is Joseph Waldron, and I am a Software Engineer currently finishing up my B.S at Kean University. With expertise in both development and data analysis, I am passionate about creating impactful solutions that solve complex problems. Through my projects, I aim to share my skills, knowledge, and ideas with the community. Thank you for visiting my profile, and please feel free to explore my repositories, and my [Portfolio][website].
 
    <p align="left">
       <a href="https://github.com/josephWaldron?tab=followers">
